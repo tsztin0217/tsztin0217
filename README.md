@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![InstagramBadge](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/tsztin0217/Data-projects-TripleTen-/)](https://instagram.com/chonkymaru) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viviansoo/)](https://www.linkedin.com/in/viviansoo/)
 
 
-<p align='left'>Welcome to my GitHub! I'm a passionate, entry-level tech enthusiast with a knack for digital creativity. With a BS in Neurobiology, Physiology, and Behavior, I originally pursued a career in the health field to meet my parents' expectations. However, I've discovered that there are countless ways to make a positive impact. 
+<p align='left'>Welcome to my GitHub! I'm a passionate, entry-level tech enthusiast with a knack for digital creativity. With a BS in Neurobiology, Physiology, and Behavior, I originally pursued a career in the health field to meet my parents' expectations. However, I've since discovered that there are countless ways to make a positive impact. 
 
 My journey in tech began with a foundation in data analysis, which ignited my love for solving problems through code and visual storytelling. I believe that technology can transform experiences and create meaningful connections. Here’s a bit more about me:
 
