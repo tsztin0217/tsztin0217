@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋, This is Tsz Tin Vivian Soo
+## Hi there 👋, This is Tsz Tin Vivian Soo ^-^
 [![Gmail Badge](https://img.shields.io/badge/-tsztin0217@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tsztin0217@gmail.com)](mailto:tsztin0217@gmail.com) [![Github Badge](https://img.shields.io/badge/-tsztin0217-grey?style=flat&logo=github&logoColor=white&link=https://github.com/tsztin0217/)](https://www.github.com/tsztin0217/) [![Portfolio Badge](https://img.shields.io/badge/BusinessIntelligence-Portfolio-blue?style=flat&link=https://github.com/tsztin0217/Data-projects-TripleTen-/)](https://github.com/tsztin0217/Data-projects-TripleTen-/) 
 [![InstagramBadge](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/tsztin0217/Data-projects-TripleTen-/)](https://instagram.com/chonkymaru) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viviansoo/)](https://www.linkedin.com/in/viviansoo/)
 
