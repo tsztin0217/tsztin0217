@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 📊 Data & Analytics Enthusiast – With experience in business intelligence and data visualization, I transform data into impactful insights to drive informed decisions. I'm familiar with using Python, SQL, R, Tableau, Google Sheets/Excel, PowerBI and are in the process of learning more about them.
 
+✨ Web Development – Since I was a child, I love writing blogs and designing my blog theme with html and CSS. I'm currently diving back into learning more about web development and incorporating JavaScript to add extra level of interactivity! 
+
 🎨 Digital Artist – I love digital drawing and exploring tools that expand my creative abilities, from illustration to animation and beyond. Some of my favorite tools include Procreate and Clip Studio Paint.
 
 🚀 Curious & Always Learning – Constantly adding new tools and techniques to my toolkit, I’m excited by everything from coding languages to creative software.
