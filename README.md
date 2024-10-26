@@ -29,3 +29,6 @@ My journey in tech began with a foundation in data analysis, which ignited my lo
 🌏 First-Generation Immigrant – Originally from Hong Kong, my journey is fueled by resilience and a unique perspective that I bring to my work.
 
 I’m always looking for new ways to tell stories with data, build smooth user interfaces, and elevate my skill set. Let’s connect! I'm open to collaborations, learning, and sharing knowledge with fellow tech explorers.</p>
+
+
+
