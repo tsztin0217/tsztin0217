@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 My journey in tech began with a foundation in data analysis, which ignited my love for solving problems through code and visual storytelling. I believe that technology can transform experiences and create meaningful connections. Here’s a bit more about me:
 
-📊 Data & Analytics Enthusiast – With experience in business intelligence and data visualization, I transform data into impactful insights to drive informed decisions. I'm familiar with using Python, SQL, R, Tableau, Google Sheets/Excel, PowerBI, but I'm constantly in the process of learning more about them.
+📊 Data & Analytics Enthusiast – With experience in business intelligence and data visualization, I transform data into impactful insights to drive informed decisions. I'm familiar with using Python, SQL, R, Tableau, Google Sheets/Excel, PowerBI, but I'm constantly in the process of improving my use and learning more about those tools.
 
 ✨ Web Design – When I was a child, I loved writing blogs and designing my blog theme with html and CSS (that was probably the first time I ever came across coding despite not knowing much of it!). During that time, I remember experimenting with colors, decorating borders, changing the image of mouse cursor, and even adding a swf file from the web for extra page effects (such as raining droplets or falling snowflakes). I'm currently diving back into learning more about web development and incorporating JavaScript to add extra level of interactivity! 
 
